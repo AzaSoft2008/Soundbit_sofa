@@ -3,7 +3,7 @@ const tracks = [
         title: "Coffee",
         artist: "beabadoobee",
         cover: "https://clubtone.do.am/_ld/6518/651812.jpg",
-        url: "beabadoobee - Coffee.mp3"
+        url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/beabadoobee%20-%20Coffee.mp3"
         
     },
     {
