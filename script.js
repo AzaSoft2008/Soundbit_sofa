@@ -10,19 +10,19 @@ const tracks = [
         title: "The Loser",
         artist: "Verzache ",
         cover: "https://cdn-images.dzcdn.net/images/cover/4fb50577aafc3f1c7089c0bd553a95bb/0x1900-000000-80-0-0.jpg",
-        url: "Verzache - The Loser.mp3"
+        url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/Verzache%20-%20The%20Loser.mp3"
     },
     {
         title: "Beanie",
         artist: "Chezile",
         cover: "https://images.wallpaperscraft.ru/image/single/siluet_noch_zvezdnoe_nebo_137292_1280x1280.jpg",
-        url: "Chezile - Beanie.mp3"
+        url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/First%20To%20Eleven%20-%20Space%20Song.mp3"
     },
     {
         title: "Space Song",
         artist: "First To Eleven",
         cover: "https://i1.sndcdn.com/artworks-uTKBZTnXAlVerzdr-kJkdyg-t500x500.jpg",
-        url: "First To Eleven - Space Song.mp3"
+        url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/Chezile%20-%20Beanie.mp3"
     },
     {
         title: "i like the way you kiss me",
