@@ -19,7 +19,7 @@ const tracks = [
         url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/First%20To%20Eleven%20-%20Space%20Song.mp3"
     },
     {
-        title: "Space Song",
+        title: "Space Song", 
         artist: "First To Eleven",
         cover: "https://i1.sndcdn.com/artworks-uTKBZTnXAlVerzdr-kJkdyg-t500x500.jpg",
         url: "https://github.com/AzaSoft2008/Soundbit_sofa/blob/main/Chezile%20-%20Beanie.mp3"
