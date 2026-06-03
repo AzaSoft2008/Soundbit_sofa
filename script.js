@@ -1,5 +1,20 @@
 const tracks = [
     {
+        title: "ADLIN_-_Ded_insajd_speed_up_remix",
+        artist: "Shamuz.net_(SkySound.cc)",
+        cover: "https://i.pinimg.com/236x/84/6c/85/846c85a15b8886858672d71cc229b31c.jpg",
+        url: "ADLIN_-_Ded_insajd_speed_up_remix_Shamuz.net_(SkySound.cc).mp3"
+        
+    },
+    
+    {
+        title: "Moonshine_Gucci_Flip_Flops",
+        artist: "Careless_Whisper",
+        cover: "https://pbs.twimg.com/amplify_video_thumb/2052781262746558466/img/RJPjU58sGt4AC4KQ.jpg",
+        url: "Moonshine_Gucci_Flip_Flops_x_Careless_Whisper.mp3"
+        
+    },
+    {
         title: "Coffee",
         artist: "beabadoobee",
         cover: "https://clubtone.do.am/_ld/6518/651812.jpg",
